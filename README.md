@@ -1,4 +1,4 @@
-# tackout
+# takeout
 
 > A Vue.js project
 
